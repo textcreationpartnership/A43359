@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments proving the jurisdiction used by the president and counsell in the marches of Wales, over the counties of Glouc., Worcester, Hereford, and Salop to be illegall, and injurious, and a meere incroachment beyond their appointed limits and the proofe is like a threefold cord, not easily broken, viz. [brace] by statutes, by law bookes, by records : whereunto is added a catalogue of part of the manifold grievances to which his majesties subjects are lyable, who live within that jurisdiction.</title>
+            <author>W. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43359</idno>
+            <idno type="STC">Wing H149</idno>
+            <idno type="STC">ESTC R41259</idno>
+            <idno type="EEBO-CITATION">31354705</idno>
+            <idno type="OCLC">ocm 31354705</idno>
+            <idno type="VID">110235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1739:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments proving the jurisdiction used by the president and counsell in the marches of Wales, over the counties of Glouc., Worcester, Hereford, and Salop to be illegall, and injurious, and a meere incroachment beyond their appointed limits and the proofe is like a threefold cord, not easily broken, viz. [brace] by statutes, by law bookes, by records : whereunto is added a catalogue of part of the manifold grievances to which his majesties subjects are lyable, who live within that jurisdiction.</title>
+                  <author>W. H.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Wakley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 14: W.H. n⁰ 2.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Local government --  England.</term>
+               <term>Local government --  Wales.</term>
+               <term>Great Britain --  History --  1066-1687.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110235:1"/>
+            <pb facs="tcp:110235:1" rendition="simple:additions"/>
+            <p>ARGUMENTS Proving, The Iurisdiction uſed by the Preſident and Counſell in the Marches of Wales, over the Counties of Glouc. Worceſter, Hereford, and Salop to be illegall, and injurious, and a meere in<g ref="char:EOLhyphen"/>croachment, beyond their appointed limits.</p>
+            <p>And the Proofe is like a three-fold cord, not eaſily broken <hi>Viz.</hi>
+               <list>
+                  <item>By ſtatutes.</item>
+                  <item>By Law bookes.</item>
+                  <item>By Records.</item>
+               </list>
+            </p>
+            <p>Whereunto is added a Catalogue, of part of the manifold grievances, to which his Majeſties ſubjects are lyable, who live within that Jurisdiction.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Wakley.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110235:2"/>
+            <pb n="3" facs="tcp:110235:2" rendition="simple:additions"/>
+            <head>The firſt part of the Prooffe, <hi>viz.</hi> By Statutes.</head>
+            <p>FRom the preamble of the ſtatute of 34. <hi>Hen.</hi> 8. (by colour whereof the ſaid countyes are involved) may be collected, the intent of the law, which as Sir <hi>Ed. Cooke</hi> ſaith, is a key to open the underſtanding of it. The words are theſe, <hi>The King of his tender zeale and affection that he bea<g ref="char:EOLhyphen"/>reth towards his obedient ſubiects of his dominion and country of Wales, &amp;c.</hi>
+            </p>
+            <p>Here is no proviſion made for Engliſh men, Alſo the clauſe of attendance ſheweth plainlie the meaning of the ſtatut, whereby only the ſheriffes and officers of Wales are to give aſſiſtance, and attendance, and not thoſe of the foure counties: Therefore not intended to be ſubiect to that Iuriſdiction.</p>
+            <p>Likewiſe the ſtatute ſaith, <hi>That the Preſident, and councell, Attorney, and ſollicitor there, ſhall bee Juſtices of peace in all the dominion of Wales.</hi> If the foure counties had been intended, noe doubt they had been accommodated with a commiſ<g ref="char:EOLhyphen"/>ſion of peace (as they are not, nor never were.)</p>
+            <p>Are theſe words: <hi>In the Marches of Wales, or in any other place, where the K. writ doth not run,</hi> The enquiry is,<note place="margin">3. Ed. 1. cap. 17.</note> where are the Marches of Wales; the ſtatute anſwers, where the Kings writ doth not run, but it is and ever was currant in thoſe foure counties. <hi>Ergo &amp;c.</hi>
+            </p>
+            <p>
+               <hi>No Welchman may purchaſe lands in the townes of Salop,</hi>
+               <note place="margin">2. Hen. 4. cap 32.</note> 
+               <hi>Here<g ref="char:EOLhyphen"/>ford, Glou. &amp;c. nor in any other marchant towne, adjoyning to the marches of Wales.</hi>
+            </p>
+            <p>
+               <hi>Ergo</hi> not marches, for nothing can adjoyne to it ſelfe.
+<pb n="4" facs="tcp:110235:3"/>It is ſaid,<note place="margin">20. Hen. 6. cap. 3.</note> 
+               <hi>that the counties of Glouceſter, Hereford, and Salop, be adjoyning to the marches of Wales.</hi>
+            </p>
+            <p>And againe, <hi>Bringing goods out of the ſaid counties into Wales, and the marches of the ſame.</hi> Hence apparant, That thoſe counties were not marches, for then they ſhould goe out of marches into marches, which were abſurd.</p>
+            <p>
+               <hi>Divers dwelling in Wales,</hi>
+               <note place="margin">13. Hen. 6. cap. 5.</note> 
+               <hi>and the marches of Wales come in<g ref="char:EOLhyphen"/>to Hereford,</hi> where Hereford is diſtinguiſhed, and exclu<g ref="char:EOLhyphen"/>ded from being marches of Wales.</p>
+            <p>
+               <note place="margin">27. Hen. 8. cap. 26.</note>
+               <hi>Divers Lordſhips, Marches lying betweene the ſhires of England, and the ſhires of the Country, and Dominion of Wales;</hi> Is not here a plain deſcription, where to find the marches, <hi>viz.</hi> within the dominion of Wales, and betweene the ſhires of England, and Wales?</p>
+            <p>It appeares there,<note place="margin">32. Hen. 8. cap. 37.</note> that the inhabitants of the Lord<g ref="char:EOLhyphen"/>ſhips, marches did uſe at their firſt entry, to pay to the Lord of the manner, a ſum of money for redemption. <hi>And</hi> 2. <hi>and</hi> 3. <hi>Ed.</hi> 6. <hi>cap.</hi> 13. There was a cuſtome in Wales, to pay tythes of goods given in mariage, but neither the one nor the other ever came, nor were ever uſed in the foure counties. <hi>Ergo &amp;c. Cum multis aliis.</hi>
+            </p>
+            <div type="part">
+               <head>Law Bookes.</head>
+               <p>
+                  <hi>Rex Eſcaetori ſuo in Com. Salop. &amp; March. ſalutem.</hi>
+                  <note place="margin">Regiſter. 315.23. B.</note> If Salop were included in the words Marches, it would not have beene diſtinguiſhed to cumber a court, which is cal<g ref="char:EOLhyphen"/>led <hi>Breve</hi> for brevity ſake.</p>
+               <p>
+                  <hi>Another writ,</hi>
+                  <note place="margin">Regiſt. 318 B. 21.6. Hen. 4.10 M. 19. H. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>Rex Eſcaetori ſuo in Com. Glou. &amp; March. eidem Com. adiacen.</hi>
+               </p>
+               <p>A <hi>Scire facias</hi> upon a fine of land in the march<g ref="char:punc">▪</g> directed to the Sheriffe of Shropſhire, who returned the land was in the March, and therefore he could not execute the writ.</p>
+               <p>
+                  <hi>When the manner of Burgane in the Marches is in demand,</hi>
+                  <pb n="5" facs="tcp:110235:3"/>the writ ſhall be directed to the Sheriffe of Hereford.<note place="margin">21. Ed. 4.3. Fitz H. Nat. B. 259</note>
+               </p>
+               <p>An iſſue joyned in the marches of Wales ſhall be tryed in the county adjoyning, Where the Kings writ runneth.</p>
+               <p>
+                  <hi>Rex Eſcaetori ſuo in Com. Salop &amp; March. eidem adjacer.</hi> if adjoyning, not March.</p>
+            </div>
+            <div type="part">
+               <head>Records.</head>
+               <p>In the Parliament Roll, <hi>of</hi> 16. <hi>Ric.</hi> 2. <hi>Numer.</hi> 34. Is an expreſſe declaration of the houſe of commons, that thoſe 4. ſhires are not within the Marches of Wales.</p>
+               <p>The Parliament Roll of 27. <hi>Hen.</hi> 6. <hi>Membrana</hi> 10. ſheweth <hi>That thoſe</hi> 4. <hi>counties have been adjoynant to the Mar. of Wales, but not within the ſaid Marches,</hi> wherein is recited the like petition in the 20. yeare of the ſaid King, exhibited by the ſaid commons.</p>
+               <p>The Parliament Roll of 33. <hi>Hen.</hi> 6. <hi>Mem.</hi> 3. <hi>ſheweth, that the ſaid counties of Glouceſter, Worceſter, Hereford, and Briſtow are not within the Marches of Wales.</hi>
+               </p>
+               <p>A commiſſion of Oyer, and terminer, to <hi>Iaſper</hi> Duke of Bedford, running in theſe words, <hi>tam infra Com. Salop,</hi>
+                  <note place="margin">Primo H. 7</note> 
+                  <hi>He<g ref="char:EOLhyphen"/>reford, Glou. Wigorn. &amp; March. Walliae iiſdem Com. adja<g ref="char:EOLhyphen"/>cen. quam infra Walli. &amp;c.</hi>
+               </p>
+               <p>The like 8. <hi>Hen.</hi> 7.</p>
+               <p>
+                  <hi>The like to Prince</hi> Arthur 17. Hen. 7. <hi>in iiſdem Verbis.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Objections.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>1</label> That the words <hi>Marches of Wales,</hi> were idle in the ſtatute of 34. <hi>Hen.</hi> 8. of not draw in the 4. counties.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>1</label> By the words Wales and the Marches thereof may bee meant Wales, and the limits thereof.</p>
+               <p>Secondly, the words <hi>dominion, and principalitie</hi> had not included thoſe counties, newly erected out of the Lord<g ref="char:EOLhyphen"/>ſhips
+<pb n="6" facs="tcp:110235:4"/>Marches without the addition of the words <hi>Marches.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objecti∣on. </seg>2</label> The reſiancy of the Preſident and councell hath for the moſt part, beene in the Engliſh counties, and improbable a court ſhould ſit where it hath no Jurisdiction.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> The conſequence is weak, for by uſage or ſpeciall com<g ref="char:EOLhyphen"/>miſſion, Courts may ſit out of the bounds of their Jurisdi<g ref="char:EOLhyphen"/>ction, (as the Queenes Court doth) the Dutchy of Lan<g ref="char:EOLhyphen"/>caſter, Juſtice in Eyre &amp;c. Beſides they ſate there for ſafety, before Wales was reduced to civill government, and ſince for conveniency of the Princes houſe, and other like accommodations, and withall they had a commiſſion of Oyer and terminer to inable them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Objecti∣on. </seg>3</label> Their long uſage and exerciſe of power over theſe foure counties.</p>
+               <p n="1">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>1</label> A ſubſequent uſage cannot inlarge the ſence of a word in an act of Parliament, further then the uſe and cuſtome was, at or before the act.</p>
+               <p n="2">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>2</label> The Citie of Briſtow was within their Jurisdiction, untill 7. <hi>Eliza.</hi> And the Citie, and countie of Cheſter, un<g ref="char:EOLhyphen"/>till 11. of her raigne, <hi>and thoſe foure counties untill</hi> 17. <hi>Car.</hi>
+               </p>
+               <p n="3">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>3</label> It hath beene but <hi>Pulſus interruptus,</hi> an interrupted ſickly power, and purſued even with hew and cry, by the 4. counties.</p>
+               <p n="4">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>4</label> All judiciall records, Patents, commiſſions &amp; inſtructi<g ref="char:EOLhyphen"/>ons (even of their owne) ſince that act have divided the Marches from the 4. counties, which run ſtill <hi>in Wallia, &amp; Com. Glouceſtr. Hereford. &amp;c. &amp; March. Walliae iiſdem Com. adjacen.</hi>
+               </p>
+               <p n="5">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>5</label> The ſolemne reſolution of all the Judges, 2. <hi>Iac.</hi> re<g ref="char:EOLhyphen"/>ported by Sir <hi>Edward Cooke,</hi> in the ſecond part of his in<g ref="char:EOLhyphen"/>ſtitutes, and produced before a committee in this preſent parliament.</p>
+               <p n="6">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>6</label> The frequent prohibitions granted to the inhabi<g ref="char:EOLhyphen"/>tants of theſe foure counties, upon this only ſuggeſtion.
+<pb n="7" facs="tcp:110235:4"/>
+                  <hi>Quia comitatus Anglicanus.</hi> And granted to the inha<g ref="char:EOLhyphen"/>bitants of the very towne of Ludlow, the chiefe place of their reſidence, and where their honour dwelleth.</p>
+               <p n="7">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>7</label> The vote and declaration of the houſe of commons, 18. <hi>Iac.</hi> whereby they declared their Iurisdiction over the ſaid counties to be illegall.</p>
+               <p n="8">
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>8</label> The generall and conſtant complaint in all ages of the inhabitants of thoſe counties, againſt the exerciſe of that Jurisdiction over them, &amp; preſented by ſeverall grand Juries both at aſſizes, and quarter Seſſions, for a grievance, tending to the loſſe of their inheritance &amp; birthright, and turning the certaine rule of law into the uncertaine rule of diſcretion.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:110235:5"/>
+               <head>Here follow the Grievances.</head>
+               <p n="1">1 FIrſt which might ſuffice for all the reſt, the multiplici<g ref="char:EOLhyphen"/>ty of ſuits commenced in that Court, as appeareth up<g ref="char:EOLhyphen"/>on ſearch lately made by warrant for a Committee in this preſent Parliament, whereby there is found, that ſince the firſt day of January laſt, untill the firſt day of <hi>May</hi> 1641, there have beene ſued out 7524 ſeverall Proceſſe, 1.2, 3, 4 and 5 def. in each of them, and moſt of them for ſmall and triviall (I might ſay) triobular things.</p>
+               <p n="2">2 This makes the report good, that diver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beggerly tradeſ<g ref="char:EOLhyphen"/>men get more by that Court, then by ſelling their wares, for they put 4 and 5 def. in one proceſſe, which coſts but 2 ſhillings 6 pence, which they make every def. pay ſe<g ref="char:EOLhyphen"/>verally, and if he ſtand out, the Court alloweth a Noble for each Proceſſe, and the ſerving of it, and this gives in<g ref="char:EOLhyphen"/>couragement to plaintifs, and ſuch a Mill can never want griſte.</p>
+               <p n="3">3 A man may ſue for five ſhillings, and recover it, only for forme ſake the Attourney will direct him to demand a<g ref="char:EOLhyphen"/>bove forty ſhillings, becauſe the inſtructions runne ſo.</p>
+               <p n="4">4 Many covetous and deceiptfull perſons uſually ſue Pro<g ref="char:EOLhyphen"/>ceſſe out of the ſaid Court for ſmall pretended debts, without cauſe, or colour, and the parties ſerved, to avoid travell and expence (although they never owed the debt, or contructed with the plaintif) pay what is demanded, ra<g ref="char:EOLhyphen"/>ther then they will travell in perſon or ſend for a <hi>dedimus</hi> to anſwer the ſame (many of the inhabitants dwelling a<g ref="char:EOLhyphen"/>bove 50 miles from the ſaid Court, and the wayes extream deepe in the winter ſeaſon) and upon each <hi>dedimus po<g ref="char:EOLhyphen"/>teſtatem,</hi> the def. (beſides the charge of it and his owne expences) muſt pay the plaintife a Noble coſts, ſo of two evils he chooſeth the leaſt.</p>
+               <p n="5">
+                  <pb n="9" facs="tcp:110235:5"/>
+5 There were in one morning three ſeverall cauſes heard in that Court about the killing of one poore Hare by a company of Ploughmen.</p>
+               <p n="6">6 The penall ſtatutes (though made <hi>interrore<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi>) yet theſe put in execution to the heighth, ſome time againſt the in<g ref="char:EOLhyphen"/>tention of the law, as a Gentleman to be fined and impri<g ref="char:EOLhyphen"/>ſoned for ſhooting in his owne ground, at his owne poul<g ref="char:EOLhyphen"/>try, to try his peece: and ſince ſuch offences by act of Parliament have beene limited to the proper County, yet there they have bin puniſhed as miſdemeanours, wherein they take upon them to be wiſer then the Parliament, be<g ref="char:EOLhyphen"/>cauſe they uſually vary from the penalty there impoſed.</p>
+               <p n="7">7 If a maſter ſtrike his ſervant (by way of correction) or a farmer a beggar for ſtealing his corne out of the cock, or ſheffe in harveſt time, they ſhall be there queſtioned, and oftentimes fined, and impriſoned.</p>
+               <p n="8">8 They try treſpaſſes and other actions, which are locall, and confined to the proper County, and ought to be done by a Jury of 12 men upon oath.</p>
+               <p n="9">9 Suits in Cities and Corporation Courts (not exceeding 5 pound) are uſually removed thither, contrary to the ſta<g ref="char:EOLhyphen"/>tute of 21 Jac. upon pretence that the ſaid Court is not named (which indeed is true) yet lively deſcribed, for the words are, <hi>Any Court that hath power or pretendeth to have power, to ſtay, or remove cauſes, &amp;c.</hi> Now every one know<g ref="char:EOLhyphen"/>eth, that the Marches of Wales, have no power (within the 4 Counties) to ſtay, or remove cauſes: only they pre<g ref="char:EOLhyphen"/>tend to have power, and ſo is the very Court intended by the ſtatute, (albeit they will take no notice of it.)</p>
+               <p n="10">10 Juſtices of peace, Majors, and Bayliffes of Cities, and Corporate townes, Conſtables, and other Officers, are of<g ref="char:EOLhyphen"/>ten there convented, for executing of their offices againſt malefactors, and if they erre never ſo little in formality of juſtice (although their intention was good and the pre<g ref="char:EOLhyphen"/>ſent
+<pb n="10" facs="tcp:110235:6"/>neceſſity of preſerving the peace required ſpeedy juſtice) are often there puniſhed, and if they are diſmiſſed (which is <hi>rara avis in terris</hi>) yet their journeys are charge<g ref="char:EOLhyphen"/>able, and they diſcouraged to execute their place, and office.</p>
+               <p n="11">11 Although the ſtatute giveth authority to Juſtices of the peace to allow and ſuppreſſe Alehouſes (as they ſhall think ſit) yet the ſaid Court hath intermedled with the ſame, and limited the number of Alehouſes in divers townes, and Villages (even where Juſtices of peace do dwell.)</p>
+               <p n="12">12 If a ſuit be there commenced for treſpaſſe, battery, or the like, and depending the ſuit, the parties agree, yet for a fine, proceſſe iſſueth forth againſt the plaintife for not proſecuting, which is not ſo in any other Court.</p>
+               <p n="13">13 If a ſentence be there given for payment of money, or the like, if the def. performe not punctually, a new bill is preferred for breach of the order, and the def. fined to the King for the ſaid breach (although it be in a civill plea.)</p>
+               <p n="14">14 If a Sheriffe have a priſoner in execution for debt, yet by a proceſſe from the ſaid Court in the nature of a <hi>Habeas Corpus,</hi> or <hi>duces tecum.</hi> the Sheriffe is commanded to bring the priſoner to the ſaid Court, which if he diſobey, they will fine him, and if he performe it, then at the next feſtivall time, they will inlarge him, or take inſufficient bayle, in which caſe the Sheriffe hath bin inforced to pay the debt.</p>
+               <p n="15">15 If a Sheriffe, or Bayliffe execute any proceſſe from that Court, for the King, or ſubject, and the def. bringeth an action of falſe impriſonment, he cannot pleade not guilty, and give the proceſſe in evidence, but muſt be in<g ref="char:EOLhyphen"/>forced to pleade the ſtatute at large, together with their inſtructions, which never yet could be drawne by the beſt Clarks, and beſides, it will coſt above 10 pound.</p>
+               <p n="16">
+                  <pb n="11" facs="tcp:110235:6"/>
+16 Double vexation and puniſhment hath uſually beene inflicted by the authority of the ſaid Court. As thoſe that have in the Biſhop; Conſiſtory beene puniſhed for incon<g ref="char:EOLhyphen"/>tinency, have afterwards beene puniſhed there for the ſame offence, and the former puniſhment not allowed for a plea. Beſides puniſhment hath beene there inflicted by whipping (too ſevere for a freeborne ſubject.)</p>
+               <p n="17">17 The inhabitants of thoſe parts are ſubject to a double juriſdiction, and oftentimes ſerved to appeare both at London and Ludlow, in one, and the ſame day.</p>
+               <p n="18">18 Adminiſtrators, and Tutors of minors (who accor<g ref="char:EOLhyphen"/>ding to the Eccleſiaſticall law) have put in good ſecurity to the Biſhop or his Chancellor, have beene drawne the<g ref="char:EOLhyphen"/>ther, and inforced to put in other ſecurity, and make yearely accompt there, to their great travell and charge.</p>
+               <p n="19">19 Although their inſtructions extend but to 50 pound, yet they having power to heare all matters of equity, by reaſon or colour thereof, they, doe Judge and determine matters of any ſumme, or value whatſoever, not only for goods, but for land.</p>
+               <p n="20">20 They uſually alter and ſtall poſſeſſions and oftentimes upon oathes of proſecutors, wherby men looſe their right and inheritance, at leaſt with much charge and difficulty regaine the ſame.</p>
+               <p n="21">21 Sequeſtrations are uſually granted, both for lands and goods, for not performing of ſome decree collaterall for debt, or other things, which is not ſo practiſed either at common law, or in Chancery. Beſides they ſequeſter co<g ref="char:EOLhyphen"/>py hold lands, which is not liable to a judgement at law, or any other proceſſe whatſoever, being no eſtate in the eye of the law, but only <hi>ad voluntatem domini.</hi>
+               </p>
+               <p n="22">22 Suits are brought there for titles, and other matters of weight, and many witneſſes examined in <hi>perpetuam rei me<g ref="char:EOLhyphen"/>moriam,</hi> and otherwiſe, yet all caſt away, though under
+<pb n="12" facs="tcp:110235:7"/>their ſeal exemplyfied, for being no Court of Record, they are rejected, and not permitted by the Iudges, to be read at affizes &amp;c.</p>
+               <p n="23">23 Many ſuits are there commenced for cauſes not within their inſtructions, whereof they will take no notice, but ſuffer the plaintife, and defendant, to ſpend much money to bring it to hearing, and then, ſome they will diſmiſſe, ſome others they will heare, and ſentence, becauſe they are in no danger, only the party grieved may ſue forth a prohibition out of the ſuperior Courts at Weſtminſter.</p>
+               <p n="24">24 The Sheriffes, to their great charge, and travaile, ex<g ref="char:EOLhyphen"/>ecute many proceſſe, iſſuing out of that Court, yet others there are authoriſed to receive the Fees incident for the ſame, and doe receive it accordingly.</p>
+               <p n="25">25 Hence it comes to paſſe that Proclamation, &amp; ſome o<g ref="char:EOLhyphen"/>ther proces directed to the Sheriffes, never comes to their hands, but are returned there, and the Fees taken to the great prejudice of the def. who hath not that notice of the ſuit which the law intendeth him.</p>
+               <p n="26">26 They award binding proceſſe againſt many poore and needy perſons, authoriſing commiſſioners of ſmall re<g ref="char:EOLhyphen"/>ſpect to apprehend them, and if they cannot find ſufficient ſecuritie (as ſeldome they are able to doe) to carry them to the next Goale, and ſo oftentimes they bring them into Corporations, where either they breake Goale, being con<g ref="char:EOLhyphen"/>ſtrained thereunto by hunger (which will breake ſtone Walls) and then that Goaler muſt pay the debt: Or elſe, if they eſcape not, they are maintained at the charge of that place, and if a Goaler refuſe to take into his cuſtody, any ſuch beggerly fellow, they will fine him.</p>
+               <p n="27">27 If a Gentleman dwell above a 100 miles out of the ju<g ref="char:EOLhyphen"/>riſdiction of that Court, yet hath ſome land there lying, and happily may come to receive his rent, or ſee his land, &amp;c. And then, if ſome troubleſome tenant or other, doe
+<pb n="7" facs="tcp:110235:7"/>ſerve him with proceſſe out of that Court, that ſhall con<g ref="char:EOLhyphen"/>clude him, and he enjoyned to attend that Court, and to performe the decree, and ſentence thereof.</p>
+               <p n="28">28 If a man be ſued in that Court for entry with force, and takes away goods, the plaintife ſhall recover damages, and the def. be fined to the King, and yet if the plaintife will ſue at law for the ſame thing (as ſometimes they do) the def. cannot pleade the former recovery in barre, but is in<g ref="char:EOLhyphen"/>forced to make a ſecond compoſition.</p>
+               <p n="29">29 Many lewd and diſſolute fellowes live by ſerving the proceſſe of that Court and making Affidavit thereof: and though they can neither write nor reade, yet will ſweare the ſerving of 40 or fifty proceſſe at one time, wherein they cannot but oftentimes forſweare themſelves, and much prejudice the def.</p>
+               <p n="30">30 Informers upon penall ſtatuts, adventure to ſue there, having no proofe at all, but relying upon the deſ: exa<g ref="char:EOLhyphen"/>mination upon a multitude of Interr. whereby he ſhall accuſe himſelfe, againſt the liberty of the ſubject, and then (right or wrong) he muſt give bond with two ſureties of 40 pound to abide the hearing: to avoid which trouble and charge the Informer obtaines his ends, <hi>viz.</hi> a compoſition.</p>
+               <p n="31">31 The charge of the countrey is not ſmall, when that Court removes from one place to another with all their incidents and accommodations, (as if the King were go<g ref="char:EOLhyphen"/>ing a progreſſe.)</p>
+               <p n="32">32 His Majeſtie, and divers of his officers are great looſers upon fineable writs above 40 pound which are ſwallowed up by this Court.</p>
+               <p n="33">33 The authority of this Court is augmented, or dimini<g ref="char:EOLhyphen"/>ſhed as it ſhall pleaſe the King to give inſtructions, where<g ref="char:EOLhyphen"/>by apparant, that it is meerly arbitrary: and once in the time of Queene <hi>Eliza.</hi>) The Court had power by their
+<pb n="14" facs="tcp:110235:8"/>inſtructions (at leaſt did practiſe power) to enjoyne pro<g ref="char:EOLhyphen"/>ceedings at the common law, which although it is not now uſed againſt ſuits at Weſtminſter, yet the inhabitants are ſtill in danger to be ſubject to the like, by the alterations of the inſtructions.</p>
+               <p n="34">34 If the King and wiſdome of this preſent Parliament would not intruſt them, nor the like arbitrary Court, with criminall, why then with civill cauſes?</p>
+               <p n="35">35 The wages and maintenance of the Judges, and officers there, ariſeth out of the mulcts, fines, and puniſhments of the ſubjects, which is a very great inconvenience, being well conſidered, for by reaſon thereof, fines are, or may be impoſed, <hi>ſuper quantitatem ſeu qualitatem delicti.</hi>
+               </p>
+               <p n="36">36 And although the Lord Preſident and Juſtices now there are honourable, worthy, and juſt men (as ever were) yet it is doubtfull, whether ſucceeding times may not place ſuch governours, Juſtices, and Officers there; which may be more grievous to the people, and whether inſtructions being altered, or inlarged, the inhabitants may not be in greater ſubjection: and who would live in feare of alteration of Government.</p>
+            </div>
+            <closer>
+               <signed>W. H. n<hi rend="sup">o</hi>. 2.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110235:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
